@@ -1,0 +1,509 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    background-color: black;
+display: flex;
+    height: 40px;
+    
+}
+body
+{
+    margin: 0%;
+    font-family:FreeSans,Arial,sans-serif ;
+    background-color:rgb(20, 20,20)
+}
+
+.left-text
+{
+    color:#fff;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    width:auto;
+   margin-left: 30px;
+;
+}
+.right-text
+{
+    color:rgb(255, 255, 255);
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    width:auto;
+    padding-left: 1150px;
+    display: flex;
+
+}
+.header-2
+{
+    display:flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 400px;
+    padding-left: 20px;
+    line-height: 60px;
+}
+.header-2-right
+{
+    width:120px;
+    margin-left: 250px;
+    margin-top: 15px;
+}
+.header-2-wrapper
+{
+    display: flex;
+    background-color: rgb(20, 20,20);
+    height: 70px;
+    color: #fff;
+}
+.main-image
+{
+    background-image:url(true-square-open-heart-white-hero_1.jpg.webp) ;
+    width:100%;
+    height: 500px;
+    background-size: cover; 
+    text-align: center;
+    color: #fff;
+    font-family:Oswald-Regular, Tahoma, Arial, sans-serif;
+    line-height: 0px;
+}
+.image-text
+{
+    font-weight: lighter;
+margin-top: -20px;
+
+
+}
+.text-wrapper
+{
+   font-size: 30px;
+   padding-top: 400px;
+
+}
+.header-3-wrapper
+{
+    background-color: rgb(20, 20,20);
+    height:449px;
+
+}
+.header-3
+{
+    color: #fff;
+    justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.header-dis{
+   position: relative;
+   bottom: 23px;
+   margin-bottom: 10px;
+   background-color: transparent;
+   border-color: #fff;
+   color: #fff;   
+   font-family: FreeSans, Arial, sans-serif;
+    font-size: 12px;
+    padding: 10px 30px;
+border-radius: 30px;
+font-size: 15px;
+}
+.our{
+padding-top: 70px;    
+}
+
+.bu-1{
+    padding: 10px 30px;
+border-radius: 20px;
+font-size: 15px;
+background-color: white;
+margin-top: 85px;
+}
+.row
+{
+    display: flex;
+   height: auto;
+}
+.grey-part
+{
+    background-color: rgb(20, 20,20);
+    height: 200px;
+  
+}
+.header-4
+{
+   
+  display: flex;
+    list-style: none;
+    justify-content: space-between;
+  padding-left: 10px;
+    padding-top: 15px;
+    color: #fff;
+    font-size: 20px;
+
+}
+.box
+{
+    background-color: rgb(255, 255, 255);
+    height: 650px;
+    display: flex;
+    
+}
+.box-text
+{
+
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.right{
+    background-color: rgb(119, 203, 17);
+    margin-left: 269px;
+    margin-top: 149px;
+}
+.headtitle
+{
+    font-size: 25px;
+line-height: 20px;
+margin-bottom: 28px;
+}
+.tit{
+    font-size: 48px;
+    line-height: 57px;
+    margin-bottom: 40px;
+    font-weight: 400;
+}
+.ti{
+    font-size: 17px;
+line-height: 20px;
+margin-bottom: 1rem;
+}
+.watch-header
+{
+    font-family: FreeSans, Arial, sans-serif;
+    padding-top:50px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.wh{
+    font-size: 36px;
+line-height: 43px;
+margin-top: 0;
+margin-bottom: 35px;
+font-weight: 400;
+padding: 20px;
+}
+.w5
+{
+    line-height: 32px;
+text-align: center;
+max-width: 900px;
+margin: 0 auto 35px;
+padding: 0 20px;
+}
+.watches
+{
+    background-color: #f2f2f2;
+    height: 900px;
+    }
+    .watch-img
+    {
+        display: flex;
+        gap: 50px;
+        height: 300px;
+        padding-top: 70px;
+        margin-left: 80px;
+       
+    }
+    .text-group
+    {
+        padding-left: 90px;
+      
+    }
+    .texts{
+        display: flex;
+        font-size: 20px;
+line-height: 24px;
+text-align: center;
+margin-bottom: 10px;
+margin-top: 20px;
+   
+    }
+.gift-box
+{
+    background-color: rgb(255, 255, 255);
+    height: 600px;
+    
+    display: flex;
+}
+.gift-img
+{
+    margin-top: 100px;
+height: 500px;
+width:700px;
+    
+}
+.gift-text
+{
+    font-family: FreeSans, Arial, sans-serif;
+    padding-top: 200px;
+    padding-left: 100px;
+}
+.gif{
+    font-size: 24px;
+line-height: 29px;
+margin-bottom: 28px;
+}
+.help
+{
+    font-size: 48px;
+line-height: 57px;
+margin-bottom: 40px;
+font-weight: 400;
+}
+.look{
+    display: block;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+}
+.watch-purple
+{
+    background-color: #f2f2f2;
+    height: 680px;
+    display: flex;
+}
+.purple-img
+{
+   margin-left: 200px;
+   padding-top: 105px;
+}
+.purple-text
+{
+    font-family: FreeSans, Arial, sans-serif;
+padding-top: 150px;
+padding-left: 200px;
+}
+.pur{
+    font-size: 24px;
+line-height: 29px;
+margin-bottom: 28px;
+}
+.purp{
+    font-size: 48px;
+line-height: 57px;
+margin-bottom: 40px;
+font-weight: 400;
+}
+.purpl{
+    display: block;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+}
+.black-box
+{
+    background-color: rgb(0, 0, 0);
+    height:450px;
+    
+}
+.black-text
+{
+    font-family: FreeSans, Arial, sans-serif;
+  color: #fff;  
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 10px; 
+}
+.our{
+    font-size: 36px;
+line-height: 43px;
+text-align: center;
+font-weight: 400;
+}
+.browse
+{
+    font-size: 24px;
+line-height: 32px;
+text-align: center;
+max-width: 790px;
+margin: 0 auto;
+margin-top: 60px;
+}
+
+.button-1
+{  border-radius: 90px;
+   background-color: #fff;
+   border-color: #fff;
+   color: rgb(0, 0, 0);
+   padding: 10px 30px;
+   border-radius: 20px;
+   font-size: 20px;  
+   position: relative;
+text-align: center;
+margin-top: 50px;
+}
+.pioneer{
+    background-color: #f2f2f2;
+    margin-top: -17px;
+    height:800px;
+}
+.pioneer-text
+{
+    font-family: FreeSans, Arial, sans-serif;
+    justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 150px; 
+}
+.pioneer-button
+{
+    
+ 
+}
+.pio{
+    font-size: 24px;
+line-height: 32px;
+text-align: center;
+margin-bottom: 80px;
+}
+.a{
+    font-size: 60px;
+line-height: 72px;
+text-align: center;
+margin-bottom: 40px;
+margin-top: 0;
+font-weight: 400;
+}
+.water{
+    font-size: 24px;
+line-height: 32px;
+text-align: center;
+}
+.pioneer-button
+{
+    padding: 10px 30px;
+    border-radius: 20px;
+    font-size: 15px;
+    background-color: white;
+    margin-top: 85px;
+}
+
+.white-part
+{
+   
+    background-color: rgb(255, 255, 255);
+    height: 650px;
+    display: flex;
+
+}
+.cus{
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 43px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+.access{
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    margin: 0 auto 38px;
+    max-width: 340px;
+    min-height: 110px;
+}
+.contact{
+margin-top: 20px;
+}
+.vl
+{
+    border-left: 6px solid #f2f2f2;
+  height: 400px;
+  position: absolute;
+  left: 50%;
+  margin-top: 150px;
+}
+.locator{
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 43px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 0;
+}
+.near{
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    margin: 0 auto 38px;
+    max-width: 340px;
+    min-height: 110px;
+}
+.vertical
+{
+    margin-left: 400px;
+    padding-top: 200px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.white{
+    padding-top: 200px;
+    padding-left: 150px;
+    justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.find{
+    padding: 10px 30px;
+    border-radius: 20px;
+    font-size: 15px;
+    background-color: white;
+}
+.contact{
+    padding: 10px 30px;
+    border-radius: 20px;
+    font-size: 15px;
+    background-color: white;
+    margin-top: 85px;
+}
+.s-last
+{
+    background-color: #141414;
+    height: 300px;
+    display:flex;
+    padding-top: 100px;
+    color: white;
+   
+}
+.customer
+{
+   margin-left: 100px;
+}
+.icon
+{
+    margin-left:  600px;
+}
+.Last{
+    background-color: black;
+    height: 40px;
+    margin-top: -16px;
+    color: white;
+    padding-left: 999px;
+    padding-top: 1px;
+    font-size: small;
+}
